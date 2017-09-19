@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rossta/webpacker.git
-  revision: 518d1cff8da5f78f1b67bd27ffc072f1774e64ae
+  revision: 4d8d4f28320ad702e6e9a6a10df6a411ca32c036
   branch: binstubs
   specs:
     webpacker (3.0.1)
